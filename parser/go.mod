@@ -10,7 +10,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	go.uber.org/goleak v1.1.10
 	go.uber.org/zap v1.18.1
-	golang.org/x/text v0.3.6
+	golang.org/x/text v0.3.8
 	modernc.org/parser v1.0.2
 	modernc.org/y v1.0.1
 )
